@@ -1,6 +1,6 @@
 # CanadaPost REST API V3 Wrapper
 
-A Ruby wrapper for the CanadaPost REST API. Based extensively off the (fedex)[https://github.com/jazminschroeder/fedex] gem
+A Ruby wrapper for the CanadaPost REST API. Based extensively off the [fedex](https://github.com/jazminschroeder/fedex) gem
 Current implementation for the rates endpoint
 
 ## Installation
