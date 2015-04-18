@@ -14,7 +14,7 @@ module CanadaPost
       TEST_URL = "https://ct.soa-gw.canadapost.ca"
 
       # CanadaPost API Production URL
-      PRODUCTION_URL = "https://https://soa-gw.canadapost.ca"
+      PRODUCTION_URL = "https://soa-gw.canadapost.ca"
 
       # List of available Option Codes
       # SO - Signature
